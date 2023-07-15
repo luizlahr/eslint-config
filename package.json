@@ -1,5 +1,5 @@
 {
-  "name": "@luizlahr/eslint-config",
+  "name": "eslint-config",
   "version": "1.0.0",
   "description": "basic eslint-config for react projects",
   "main": "index.js",
