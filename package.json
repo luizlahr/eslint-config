@@ -1,9 +1,9 @@
 {
-  "name": "eslint-config",
+  "name": "@luizlahr/eslint-config",
   "version": "1.0.0",
-  "private": false,
   "description": "basic eslint-config for react projects",
   "main": "index.js",
+  "private": false,
   "repository": {
     "url": "luizlahr/eslint-config"
   },
