@@ -18,7 +18,7 @@ npm i -D eslint @luizlahr/eslint-config
 2. Create a `.eslintrc.json` file extending the config:
 ```
 {
-  "extends": "@luizlhar/eslint-config/react"
+  "extends": "@luizlhar/eslint-config"
 }
 ```
 
