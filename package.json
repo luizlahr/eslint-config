@@ -1,11 +1,12 @@
 {
-  "name": "eslint-config",
+  "name": "@luizlahr/eslint-config",
   "version": "1.0.0",
   "description": "basic eslint-config for react projects",
   "main": "index.js",
   "private": false,
   "repository": {
-    "url": "luizlahr/eslint-config"
+    "type": "git",
+    "url": "git://github.com/luizlahr/eslint-config"
   },
   "author": {
     "name": "Luiz Lahr",
@@ -23,7 +24,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "ISC",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^6.0.0",
     "@typescript-eslint/parser": "^6.0.0",
