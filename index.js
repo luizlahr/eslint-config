@@ -6,8 +6,8 @@ module.exports = {
   },
   extends: [
     'plugin:react/recommended',
-    'plugin:react-hooks/recommended',
     'standard',
+    'plugin:react-hooks/recommended',
     'plugin:@typescript-eslint/recommended',
     'plugin:prettier/recommended',
   ],
@@ -22,6 +22,7 @@ module.exports = {
   plugins: [
     'react',
     'jsx-a11y',
+    'promise',
     '@typescript-eslint'
   ],
   rules: {
